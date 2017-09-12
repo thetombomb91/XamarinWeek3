@@ -18,10 +18,10 @@
             Clicked="Handle_NavigateToFormattedTextExample" />
         <Entry
             x:Name="UserTextEntry"
-        Placeholder="Enter Text"
-        Margin="15,0"/>
+            Placeholder="Enter Text"
+            Margin="15,0" />
         <Button
             Text="Display User Text on Next Page"
-            Clicked="Handle_NavigateToDisplayUserTextPage"/>
+            Clicked="Handle_NavigateToDisplayUserTextPage" />
     </StackLayout>
 </ContentPage>

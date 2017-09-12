@@ -3,13 +3,13 @@
     <Files>
       <File FileName="Week3Examples/GridExample.xaml" Line="6" Column="24" />
       <File FileName="Week3Examples/GridExample.xaml.cs" Line="1" Column="1" />
-      <File FileName="Week3Examples/Week3ExamplesPage.xaml" Line="11" Column="42" />
-      <File FileName="Week3Examples/Week3ExamplesPage.xaml.cs" Line="37" Column="4" />
+      <File FileName="Week3Examples/Week3ExamplesPage.xaml" Line="22" Column="29" />
+      <File FileName="Week3Examples/Week3ExamplesPage.xaml.cs" Line="34" Column="56" />
       <File FileName="Week3Examples/App.xaml.cs" Line="12" Column="92" />
-      <File FileName="Week3Examples/FormattedTextExamplePage.xaml" Line="8" Column="38" />
-      <File FileName="Week3Examples/DisplayUserTextPage.xaml" Line="7" Column="48" />
-      <File FileName="Week3Examples/DisplayUserTextPage.xaml.cs" Line="26" Column="14" />
-      <File FileName="Week3Examples/obj/Debug/Week3Examples.Week3ExamplesPage.xaml.g.cs" Line="25" Column="1" />
+      <File FileName="Week3Examples/FormattedTextExamplePage.xaml" Line="28" Column="15" />
+      <File FileName="Week3Examples/DisplayUserTextPage.xaml" Line="9" Column="45" />
+      <File FileName="Week3Examples/DisplayUserTextPage.xaml.cs" Line="31" Column="35" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

@@ -25,5 +25,10 @@ namespace Week3Examples
                 DisplayUserTextLabel.Text = userText;
             }
 		}
+
+        void Handle_GoBackClicked(object sender, System.EventArgs e)
+        {
+            Navigation.PopAsync();
+        }
     }
 }
