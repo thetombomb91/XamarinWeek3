@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage
+    xmlns="http://xamarin.com/schemas/2014/forms"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:Week3Examples"
+    x:Class="Week3Examples.Week3ExamplesPage"
+    Title="Home Page"
+    Appearing="Handle_Appearing">
+    <StackLayout>
+        <Label
+            x:Name="TimePageAppearedLabel"
+            HorizontalTextAlignment="Center" />
+        <Button
+            Text="Grid Example"
+            Clicked="Handle_NavigateToGridExample" />
+        <Button
+            Text="Formatted Example"
+            Clicked="Handle_NavigateToFormattedTextExample" />
+        <Entry
+            x:Name="UserTextEntry"
+        Placeholder="Enter Text"
+        Margin="15,0"/>
+        <Button
+            Text="Display User Text on Next Page"
+            Clicked="Handle_NavigateToDisplayUserTextPage"/>
+    </StackLayout>
+</ContentPage>

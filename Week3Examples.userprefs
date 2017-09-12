@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{F9DE0233-28B9-4AB0-BE07-92A356764A62}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week3Examples/DisplayUserTextPage.xaml.cs">
+    <Files>
+      <File FileName="Week3Examples/GridExample.xaml" Line="6" Column="24" />
+      <File FileName="Week3Examples/GridExample.xaml.cs" Line="1" Column="1" />
+      <File FileName="Week3Examples/Week3ExamplesPage.xaml" Line="11" Column="42" />
+      <File FileName="Week3Examples/Week3ExamplesPage.xaml.cs" Line="37" Column="4" />
+      <File FileName="Week3Examples/App.xaml.cs" Line="12" Column="92" />
+      <File FileName="Week3Examples/FormattedTextExamplePage.xaml" Line="8" Column="38" />
+      <File FileName="Week3Examples/DisplayUserTextPage.xaml" Line="7" Column="48" />
+      <File FileName="Week3Examples/DisplayUserTextPage.xaml.cs" Line="26" Column="14" />
+      <File FileName="Week3Examples/obj/Debug/Week3Examples.Week3ExamplesPage.xaml.g.cs" Line="25" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Week3Examples.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.EAC59461-916A-4694-A3BA-E84A2BAEFF16">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.Week3Examples.iOS>
+</Properties>
