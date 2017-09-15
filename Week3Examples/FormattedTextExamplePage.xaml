@@ -7,22 +7,35 @@
     Appearing="Handle_Appearing"
     Disappearing="Handle_Disappearing">
     <ContentPage.Content>
-        <Label>
-            <Label.FormattedText>
-                <FormattedString>
-                    <FormattedString.Spans>
-                        <Span
-                            Text="Xamarin"
-                            ForegroundColor="Red"
-                            FontAttributes="Italic"
-                            FontSize="10" />
-                        <Span
-                            Text="Forms"
-                            ForegroundColor="Blue"
-                            FontSize="15" />
-                    </FormattedString.Spans>
-                </FormattedString>
-            </Label.FormattedText>
-        </Label>
+        <StackLayout>
+            <Label
+                x:Name="GlobalTextLabel"
+                HorizontalOptions="Center"
+                Margin="0,10" />
+            <Label
+                HorizontalTextAlignment="Center"
+                VerticalOptions="Center"
+                BackgroundColor="Silver">
+                <Label.FormattedText>
+                    <FormattedString>
+                        <FormattedString.Spans>
+                            <Span
+                                Text="Xamarin Forms"
+                                ForegroundColor="Red"
+                                FontAttributes="Italic"
+                                FontSize="15" />
+                            <Span
+                                Text="is the"
+                                ForegroundColor="Blue"
+                                FontSize="10" />
+                            <Span
+                                Text="BEST"
+                                ForegroundColor="Purple"
+                                FontSize="20" />
+                        </FormattedString.Spans>
+                    </FormattedString>
+                </Label.FormattedText>
+            </Label>
+        </StackLayout>
     </ContentPage.Content>
 </ContentPage>

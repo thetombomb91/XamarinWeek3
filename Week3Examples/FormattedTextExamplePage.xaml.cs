@@ -14,7 +14,7 @@ namespace Week3Examples
 
         void Handle_Appearing(object sender, System.EventArgs e)
         {
-            // Called when page first appearing   
+			GlobalTextLabel.Text = Globals.XAMARIN_STRING;
         }
 
         void Handle_Disappearing(object sender, System.EventArgs e)

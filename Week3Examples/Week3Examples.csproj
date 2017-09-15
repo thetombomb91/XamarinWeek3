@@ -57,6 +57,7 @@
     <Compile Include="DisplayUserTextPage.xaml.cs">
       <DependentUpon>DisplayUserTextPage.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Globals.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Xamarin.Forms.Core">

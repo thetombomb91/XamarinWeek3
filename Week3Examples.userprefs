@@ -1,15 +1,9 @@
 ﻿<Properties StartupConfiguration="{F9DE0233-28B9-4AB0-BE07-92A356764A62}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Week3Examples/DisplayUserTextPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week3Examples/FormattedTextExamplePage.xaml.cs">
     <Files>
-      <File FileName="Week3Examples/GridExample.xaml" Line="6" Column="24" />
-      <File FileName="Week3Examples/GridExample.xaml.cs" Line="1" Column="1" />
-      <File FileName="Week3Examples/Week3ExamplesPage.xaml" Line="22" Column="29" />
-      <File FileName="Week3Examples/Week3ExamplesPage.xaml.cs" Line="34" Column="56" />
-      <File FileName="Week3Examples/App.xaml.cs" Line="12" Column="92" />
-      <File FileName="Week3Examples/FormattedTextExamplePage.xaml" Line="28" Column="15" />
-      <File FileName="Week3Examples/DisplayUserTextPage.xaml" Line="9" Column="45" />
-      <File FileName="Week3Examples/DisplayUserTextPage.xaml.cs" Line="31" Column="35" />
-      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Week3Examples/FormattedTextExamplePage.xaml" Line="14" Column="29" />
+      <File FileName="Week3Examples/FormattedTextExamplePage.xaml.cs" Line="17" Column="14" />
+      <File FileName="Week3Examples/Globals.cs" Line="6" Column="69" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
